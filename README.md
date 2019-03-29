@@ -150,9 +150,9 @@ Try live streaming your meetup and post the data below in a [pull request](https
 
 Try changing the time of your event from evening to a lunchtime or weekend every other month. Post attendance data in the table below. When you do this, compare the attendees at each event and see if there are differences. If the groups are mainly different then maybe you could run multiple events each month, one in an evening, one during a lunchtime or weekend.
 
-| Meetup Group  | Evening attendance | Lunchtime attendance | Breakfast attendance | Weekend attendance |
-| ------------- | ----------- | ---- | -------------------- | ------------------ | ------------------ |
-|  [My Example Meetup](https://meetup.com) | 57  | 84 | 19 | 73 |
+| Meetup Group                             | Evening attendance | Lunchtime attendance | Breakfast attendance | Weekend attendance |
+| ---------------------------------------- | ------------------ | -------------------- | -------------------- | ------------------ |
+|  [My Example Meetup](https://meetup.com) | 57                 | 84                   | 19                   | 73                 |
 
 ## FAQ
 
