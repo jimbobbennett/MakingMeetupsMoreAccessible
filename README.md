@@ -134,15 +134,15 @@ Ideally we need data to verify suggestions. This is where **you** come in.
 
 Try recording your meetup and post the data below in a [pull request](https://github.com/jimbobbennett/MakingMeetupsMoreAccessible/pulls).
 
-| Meetup Group  | Video views (online time) | Link | RSVP | went | no-show | time between announcement and meetup day |
+| Meetup Group  | Video views | Link | RSVP | went | no-show | time between announcement and meetup day |
 | ------------- | ----------- | ---- | ---- | -----| ------- | --------- |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/264336052/) | 88 (1 week ago) | https://youtu.be/5Zrg9LfukLQ | 37 | 32 (4 with no rsvp) | 9 | 1 week |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/261233668/) | 132 (2 months ago) | https://youtu.be/ndOLeNjFk_w | 41 | 25 | 16 | ~ 2-3 weeks |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/261490238/) | 140 (3 months ago) | https://youtu.be/gahGr-cek-E | 25 | 10 | 15 | 2 weeks |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/261490238/) | 182 (3 months ago) | https://youtu.be/26w_GaiuxQs | 25 | 10 | 15 | 2 weeks |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/259218199/) | 59 (5 months ago) | 53 | 43 | 10 | ~ 2 weeks |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/255737023/) | 93 (10 months ago) | https://youtu.be/-wycjfKA8c0 | 33? | 33 | ? | ~ 4 weeks? |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/255737023/) | 5418 (10 months ago) | https://youtu.be/XLHeJgWovI4 | 33? | 33 | ? | ~ 4 weeks? |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/264336052/) | 88 | https://youtu.be/5Zrg9LfukLQ | 37 | 32 (4 with no rsvp) | 9 | 1 week |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/261233668/) | 132 | https://youtu.be/ndOLeNjFk_w | 41 | 25 | 16 | ~ 2-3 weeks |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/261490238/) | 140 | https://youtu.be/gahGr-cek-E | 25 | 10 | 15 | 2 weeks |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/261490238/) | 182 | https://youtu.be/26w_GaiuxQs | 25 | 10 | 15 | 2 weeks |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/259218199/) | 59 | https://youtu.be/yK2HomlGEEQ | 53 | 43 | 10 | ~ 2 weeks |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/255737023/) | 93 | https://youtu.be/-wycjfKA8c0 | 33? | 33 | ? | ~ 4 weeks? |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/255737023/) | 5418 | https://youtu.be/XLHeJgWovI4 | 33? | 33 | ? | ~ 4 weeks? |
 
 
 ### Live streaming
@@ -151,10 +151,10 @@ Try live streaming your meetup and post the data below in a [pull request](https
 
 | Meetup Group  | Live views | Recording views | Link |
 | ------------- | ---------- | ----------- | ---- |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/264336052/) | 7 | n.a. | offline |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/261233668/) | 8 | 20   | https://youtu.be/FViPbgO4fMo |
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/259218199/) | 9 | 28 | https://youtu.be/evFV9aaWE7M
-| dotnet.Amsterdam (https://www.meetup.com/dotnet-amsterdam/events/255737023/) | 7 | 104 | https://youtu.be/E3LSTJhNcKc
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/264336052/) | 7 | n.a. | offline |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/261233668/) | 8 | 20   | https://youtu.be/FViPbgO4fMo |
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/259218199/) | 9 | 28 | https://youtu.be/evFV9aaWE7M
+| [dotnet.Amsterdam](https://www.meetup.com/dotnet-amsterdam/events/255737023/) | 7 | 104 | https://youtu.be/E3LSTJhNcKc
 
 
 ### Different times
