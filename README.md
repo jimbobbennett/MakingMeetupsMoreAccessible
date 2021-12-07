@@ -60,7 +60,7 @@ Some people simply cannot or do not want to travel to meetups, but want to be en
 
 #### A chat tool
 
-Having a chat tool like Slack available allows for discussions and networking at any time, from anywhere accessible to those who cannot attend in person, or don't want to initiate in public questioning and conversation. A well run slack team should have different channels for areas of discussion and be **well moderated**. The code of conduct for the meetup applies on the chat channels and **MUST** be enforced there as well.
+Having a chat tool like Slack, Discord, or Teams available allows for discussions and networking at any time, from anywhere accessible to those who cannot attend in person, or don't want to initiate in public questioning and conversation. A well run chat setup should have different channels for areas of discussion and be **well moderated**. The code of conduct for the meetup applies on the chat channels and **MUST** be enforced there as well.
 
 After a meetup, this can be a good place to chat about the event and engage with the speaker, who should be encouraged to join the chat and engage with the audience. Attendees can answer questions without needing to put up their hand or approach a stranger.
 
@@ -77,6 +77,8 @@ By live streaming meetups, the time problem becomes easier. If you want to get i
 Once live streaming is part of the community culture, having more remote events becomes possible, including live streaming remote speakers to a physical event.
 
 > Twitch setup can be complicated, bringing in microphones, the presenters screen and a video feed of the presenter. Please raise a PR with some suggestions for an easy to use setup!
+
+Since the rise of the COVID-19 global pandemic, a lot of meetups have turned virtual, with live streaming being the norm. This has increased engagement, as well as driving acceptance of virtual events. As the world starts to recover and move back to a hybrid approach, then to in-person, I encourage you to learn from your live streaming, and keep all events as hybrid. That way folks who want to watch from home, or are not comfortable in public places due to the health risks can still be active and engaged members of your community.
 
 ### Providing content to watch later
 
@@ -98,7 +100,7 @@ Yes, pizza is easy - but grab some gluten free, vegan, vegetarian and some salad
 
 Speaking as a type-1 diabetic Pizza is really bad for my sugar levels. If you can, order different food to cater for all tastes and preferences - maybe get the local Indian to put together a buffet.
 
-Same with drinks - have hot, cold, soft, alcohol. Don't just get 'lots of beer' - some people don't drink, soe do but can't have gluten so beer is out. Get a good selection. Your code of conduct should cover alcohol consumption as well. Anyone drunk and disorderly should be banned.
+Same with drinks - have hot, cold, soft, alcohol. Don't just get 'lots of beer' - some people don't drink, some do but can't have gluten so beer is out. Get a good selection. Your code of conduct should cover alcohol consumption as well. Anyone drunk and disorderly should be banned. Also consider running dry events - some folks won't attend events where alcohol is served, but I doubt anyone would refuse to attend a meetup just because there isn't free beer.
 
 Above all though, engage with your community and ask what they want.
 
@@ -106,15 +108,15 @@ Above all though, engage with your community and ask what they want.
 
 Being a parent is hard and it limits what you can do and events you can attend. Rather than make meetups exclusive to parents, there are ways to make it inclusive.
 
-Firstly for breastfeeding mums, there should be absolutely no issues with feeding happening during a meetup - either an attendee or the speaker feeding their child. This should be a part of the code of conduct. If a mum want's privacy, then there should be a space to do this. Same as if their child is upset or crying and the parent needs a quiet space to calm them down.
+Firstly for breastfeeding mums, there should be absolutely no issues with feeding happening during a meetup - either an attendee or the speaker feeding their child. This should be a part of the code of conduct. If a mum wants privacy, then there should be a space to do this. Same as if their child is upset or crying and the parent needs a quiet space to calm them down.
 
-For older kids, child care should be provided. I say should, though I appreciate how expensive this is, and how most venues are not set up to care for children. Please raise a PR with any thoughts around how this could be done better. Some ideas include parents banding together over slack and having a parents meetup at one persons house, where kids can play together whilst the parents watch the live stream.
+For older kids, child care should be provided. I say should, though I appreciate how expensive this is, and how most venues are not set up to care for children. Please raise a PR with any thoughts around how this could be done better. Some ideas include parents banding together over Teams and having a parents meetup at one persons house, where kids can play together whilst the parents watch the live stream.
 
 ## A perfect meetup
 
 There is no such thing, but to me a perfect meetup group has:
 
-* A great online community chatting in a tool like Slack
+* A great online community chatting in a tool like Slack, Discord, or Teams
 * All events live-streamed with moderated chat during the event so questions from the virtual audience can be answered
 * A virtual community beyond the physical meetup engaging with the live stream, mixing different meetup groups
 * A recording available offline
